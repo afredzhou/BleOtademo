@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IoT-OTA-Demo</string>
+    <string name="title_ota">OTA</string>
+    <string name="toast_enable_bt">turn on bluetooth first</string>
+    <string name="ble_not_supported">BLE not supported</string>
+    <string name="error_bluetooth_not_supported">BLE not supported</string>
+    <string name="connecting">connecting...</string>
+
+
+    <string name="tv_up">up</string>
+    <string name="tv_ota_deviceName">device name:</string>
+    <string name="tv_ota_name">file name:</string>
+    <string name="btn_select_ota">select file</string>
+    <string name="btn_start_ota">start OTA</string>
+    <string name="mac_address">MAC:</string>
+    <string name="ota_version">current version:</string>
+    <string name="ota_dialog">OTA</string>
+    <string name="ota_start">start OTA</string>
+    <string name="ota_succeed">OTA Success</string>
+    <string name="ota_finished">OTA Completed</string>
+    <string name="cb_save">save file path</string>
+    <string name="toast_save_success">save success</string>
+    <string name="tv_OTA_activity">OTA</string>
+    <string name="tv_fileSelect_activity">select file</string>
+    <string name="toast_select_otaFile">please select firmware file</string>
+    <string name="toast_wrong_file">invalid file</string>
+    <string name="toast_service_error">service error</string>
+    <string name="toast_device_error">disconnected</string>
+    <string name="toast_ota_file_blank">please select firmware file</string>
+    <string name="toast_ota_stop">OTA stopped，device disconnected</string>
+    <string name="toast_file_invalid">invalid file</string>
+    <string name="toast_delete_sdCard">can not delete SD card</string>
+    <string name="delete">deleted</string>
+    <string name="open">open</string>
+    <string name="btn_cancel">cancel</string>
+    <string name="link_established">connected</string>
+    <string name="link_dropped">disconnected</string>
+    <string name="searchservice_succeed">OTA service found</string>
+    <string name="error_invalid_parameter">error：invalid parameter</string>
+    <string name="error_data_send_timeout">error：timeout to send command</string>
+    <string name="error_connect_failed">fail to connect</string>
+    <string name="error_discover_service_failed">error：OTA service not found</string>
+    <string name="error_data_send_failed">error：fail to send command</string>
+    <string name="error_device_already_connected">error：connection exist</string>
+    <string name="error_uesr_cancel">canceled by user</string>
+    <string name="error_write_descriptor_failed">error：device not in OTA mode, write command fail</string>
+    <string name="toast_ota_enter_and_rescan">enter OTA mode, rescan and select device name contain \'OTA\'</string>
+</resources>

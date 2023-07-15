@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">IoT-OTA-Demo</string>
+    <string name="title_ota">OTA 升级</string>
+    <string name="toast_enable_bt">请先打开蓝牙</string>
+    <string name="ble_not_supported">不支持BLE</string>
+    <string name="error_bluetooth_not_supported">不支持BLE</string>
+    <string name="connecting">正在连接...</string>
+
+
+    <string name="tv_up">上一级</string>
+    <string name="tv_ota_deviceName">设备名称：</string>
+    <string name="tv_ota_name">文件名称：</string>
+    <string name="btn_select_ota">选择OTA文件</string>
+    <string name="btn_start_ota">开始OTA升级</string>
+    <string name="mac_address">MAC地址：</string>
+    <string name="ota_version">当前版本：</string>
+    <string name="ota_dialog">OTA</string>
+    <string name="ota_start">开始ota</string>
+    <string name="ota_succeed">OTA成功</string>
+    <string name="ota_finished">OTA完成</string>
+    <string name="cb_save">保存OTA文件地址</string>
+    <string name="toast_save_success">路径保存成功</string>
+    <string name="tv_OTA_activity">OTA</string>
+    <string name="tv_fileSelect_activity">OTA文件选择</string>
+    <string name="toast_select_otaFile">请选择一个OTA文件</string>
+    <string name="toast_wrong_file">文件已损坏</string>
+    <string name="toast_service_error">蓝牙出现了问题</string>
+    <string name="toast_device_error">设备已断开</string>
+    <string name="toast_ota_file_blank">请选择要升级的OTA文件</string>
+    <string name="toast_ota_stop">OTA已停止，设备连接断开</string>
+    <string name="toast_file_invalid">文件无效</string>
+    <string name="toast_file_error_type">升级文件格式不合规</string>
+    <string name="toast_delete_sdCard">不能删除SD卡</string>
+    <string name="delete">删除</string>
+    <string name="open">打开</string>
+    <string name="btn_cancel">取消</string>
+    <string name="link_established">连接建立</string>
+    <string name="link_dropped">连接断开</string>
+    <string name="searchservice_succeed">OTA服务查找成功</string>
+    <string name="error_invalid_parameter">错误提示：参数无效</string>
+    <string name="error_data_send_timeout">错误提示：数据发送超时</string>
+    <string name="error_connect_failed">连接断开</string>
+    <string name="error_discover_service_failed">错误提示：查找OTA服务失败</string>
+    <string name="error_data_send_failed">错误提示：数据发送失败</string>
+    <string name="error_device_already_connected">错误提示：设备已连接</string>
+    <string name="error_uesr_cancel">用户取消了OTA</string>
+    <string name="error_write_descriptor_failed">错误提示：设备未进入OTA模式，数据写入失败</string>
+    <string name="toast_ota_enter_and_rescan">已进入升级模式,重新搜索后,请选择带OTA后缀的设备</string>
+
+    <string name="ota_success_title">OTA升级成功</string>
+    <string name="ota_success_back">返回</string>
+</resources>
